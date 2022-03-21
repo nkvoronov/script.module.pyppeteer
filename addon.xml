@@ -7,9 +7,10 @@
 		<import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.appdirs" version="1.4.4" />
         <import addon="script.module.certifi" version="2020.12.05" />
+        <!-- <import addon="script.module.importlib-metadata" version="4.11.3" /> -->
         <import addon="script.module.pyee" version="8.0.0" />
-        <import addon="script.module.urllib3" version="1.26.4" />
-        <import addon="script.module.tqdm" version="4.63" />
+        <import addon="script.module.tqdm" version="4.63.0" />
+        <import addon="script.module.urllib3" version="1.26.4" />        
         <import addon="script.module.websockets" version="10.2" />
 	</requires>
 	<extension point="xbmc.python.module" library="lib" />
