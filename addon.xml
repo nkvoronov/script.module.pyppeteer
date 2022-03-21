@@ -9,6 +9,7 @@
         <import addon="script.module.certifi" version="2020.12.05" />
         <import addon="script.module.pyee" version="8.0.0" />
         <import addon="script.module.urllib3" version="1.26.4" />
+        <import addon="script.module.websockets" version="10.2" />
 	</requires>
 	<extension point="xbmc.python.module" library="lib" />
 	<extension point="xbmc.addon.metadata">
