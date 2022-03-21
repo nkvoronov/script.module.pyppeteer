@@ -5,6 +5,7 @@
 		provider-name="YDRAGON">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0" />
+        <import addon="script.module.appdirs" version="1.4.4" />
         <import addon="script.module.certifi" version="2020.12.05" />
         <import addon="script.module.urllib3" version="1.26.4" />
 	</requires>
