@@ -19,7 +19,7 @@ except ModuleNotFoundError:
 try:
     __version__ = version(__name__)
 except Exception:
-    __version__ = None
+    __version__ = "1.0.2"
 
 
 __chromium_revision__ = '588429'
