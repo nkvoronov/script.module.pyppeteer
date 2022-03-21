@@ -23,7 +23,6 @@
 		<description lang="ru_RU">Неофициальный порт на Python библиотеки автоматизации браузера chrome/chromium для puppeteer JavaScript (без головы).</description>
 		<description lang="uk_UA">Неофіційний порт Python для бібліотеки автоматизації браузера chrome/chromium JavaScript (без головки).</description>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<platform>all</platform>
 		<email>nkvoronov@gmail.com</email>
 		<source>https://github.com/nkvoronov/script.module.pyppeteer.git</source>
 		<assets>
